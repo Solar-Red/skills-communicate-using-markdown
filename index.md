@@ -35,7 +35,9 @@
 
 
 
-
+- [ ] Learn Python
+- [x] Make a github account
+- [ ] Become Cloudsec engineer
 
 
 
